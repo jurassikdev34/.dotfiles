@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/boot/EFI/BOOT'
+let g:netrw_dirhist_0='/boot/EFI'
+let g:netrw_dirhist_9='/boot'
+let g:netrw_dirhist_8='/'
+let g:netrw_dirhist_7='/var'
+let g:netrw_dirhist_6='/var/dpkg'
+let g:netrw_dirhist_5='/var/dpkg/updates'
+let g:netrw_dirhist_4='/var/dpkg'
+let g:netrw_dirhist_3='/var/dpkg/updates'
+let g:netrw_dirhist_2='/var/dpkg'
