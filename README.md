@@ -15,6 +15,8 @@ Programs:
  - nwg-look
  - sddm
  - blueman-manager
+ - Nemo
+ - Wofi
  - ... and dependecies
 
 

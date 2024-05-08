@@ -1,9 +1,8 @@
 // https://github.com/jurassikdev34 //
-// ##### JurassikDev34 ######## //
+// ##### JurassikDev34 ######### //
 
 
-
-// Workspaces with roman numbers
+{
 
 "hyprland/workspaces#roman": {
     "active-only":false,
@@ -42,7 +41,6 @@
     "on-click": "blueman-manager",
 },
 
-// Clock
 "clock": {
     "interval": 1,
     //"format": " {:%I:%M %p}", // AM PM format
@@ -70,9 +68,7 @@
       "on-scroll-up": "shift_up",
       "on-scroll-down": "shift_down"
 },
-//
 
-// Things of the computer
 "cpu": {
     "format": "{usage}% 󰍛",  
     "interval": 1,
@@ -129,9 +125,7 @@
     "tooltip": true,
     "tooltip-format": "{timeTo} {power}w",
 },
-//
 
-// Audio  
 "pulseaudio": {
     "format": "{icon} {volume}%",
     "format-bluetooth": "{icon} 󰂰 {volume}%",
@@ -166,9 +160,7 @@
 	"tooltip-format": "{source_desc} | {source_volume}%",
     "scroll-step": 5,
 },
-//
 
-// Weather    
 "custom/weather": {
     "format": "{}",
     "format-alt": "{alt}: {}",
@@ -180,9 +172,7 @@
     "exec-if": "ping wttr.in -c1",
     "tooltip" : true,
 },
-//
 
-// Separators  
 "custom/separator#dot-line": {
     "format": "",
     "interval": "once",
@@ -196,4 +186,5 @@
     "interval": "once",
     "tooltip": false
 },
-//
+
+}

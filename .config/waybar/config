@@ -3,7 +3,8 @@
 
 
 {
-"include": "~/.config/waybar/modules",
+  
+"include": "/home/alejandro/.config/waybar/modules",
 "layer": "top",
 "position": "top",
 "width": 1920,
