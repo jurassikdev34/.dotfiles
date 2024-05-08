@@ -9,9 +9,17 @@ I will update it
 Programs:
  - Hyprland
  - Pamixer
- - Alacritty
+ - Kitty
  - Waybar 
  - Zsh
  - nwg-look
  - sddm
+ - blueman-manager
  - ... and dependecies
+
+
+Some of the scritps are taken from JaKooLit dotfiles. These scripts are modified but 
+
+Other files are the default 
+
+Also credits to Oh-My-Zsh
