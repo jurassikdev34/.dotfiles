@@ -3,3 +3,6 @@
 - Waybar   
     - ~/.config/scripts/volume.sh -> https://github.com/jurassikdev34/dotfiles/.config/hypr/
     - ~/.config/scripts/weather.sh -> https://github.com/jurassikdev34/dotfiles/.config/hypr/
+
+- GNU Stow -> not very sure how to do 
+
