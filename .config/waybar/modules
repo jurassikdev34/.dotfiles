@@ -163,14 +163,10 @@
 
 "custom/weather": {
     "format": "{}",
-    "format-alt": "{alt}: {}",
-    "format-alt-click": "click",
-    "interval": 3600,
-    "return-type": "json",
-    "exec": "/home/alejandro/.config/scripts/weather.sh",
-    //"exec": "/home/alejandro/.config/scripts/weather.py",
-    "exec-if": "ping wttr.in -c1",
-    "tooltip" : true,
+    "tooltip": true,
+    "interval": 3598,
+    "exec": "/home/alejandro/.config/waybar/waybar-wttr.py",
+    "return-type": "json"
 },
 
 "custom/separator#dot-line": {

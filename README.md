@@ -17,6 +17,7 @@ Programs:
  - blueman-manager
  - Nemo
  - Wofi
+ - xdg-desktop-portal-hyprland
  - ... and dependecies
 
 
