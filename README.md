@@ -1,23 +1,16 @@
 # Dotfiles
 ----------
 
-These are my dotfiles for Arch Linux with Hyprland. For me are ok but I want to make it better
+These are my dotfiles for Termux on Android. Cloned from my dotfiles of Arch Linux with Hyprland. For me are ok but I want to make it better
 
 I will update it
 
 
 Programs:
- - Hyprland
- - Pamixer
- - Kitty
- - Waybar 
  - Zsh
- - nwg-look
- - sddm
- - blueman-manager
- - Nemo
- - Wofi
- - xdg-desktop-portal-hyprland
+ - Neovim
+ - Fastfetch
+ - ... and other things that I don't remenber
  - ... and dependecies
 
 
