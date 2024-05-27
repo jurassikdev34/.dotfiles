@@ -165,7 +165,7 @@
     "format": "{}",
     "tooltip": true,
     "interval": 3598,
-    "exec": "/home/alejandro/.config/waybar/waybar-wttr.py",
+    "exec": "python3 /home/alejandro/.config/waybar/waybar-wttr.py",
     "return-type": "json"
 },
 
