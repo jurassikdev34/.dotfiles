@@ -1,4 +1,4 @@
 return {
-   'mattn/calendar-vim',
+   'itchyny/calendar.vim',
    lazy = false,
 }

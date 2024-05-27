@@ -10,6 +10,11 @@ mapkey("<leader>`", "e #", "n") -- Switch to Other Buffer
 mapkey("<leader>e", "NvimTreeFocus", "n")
 mapkey("<leader>E", "NvimTreeToggle", "n")
 
+
+-- Tab Navigation
+mapkey("<leader>j", "bprev", "n") -- Prev Tab
+mapkey("<leader>k", "bnext", "n") -- Next Tab
+
 -- Pane and Window Navigation
 mapkey("<C-h>", "<C-w>h", "n") -- Navigate Left
 mapkey("<C-j>", "<C-w>j", "n") -- Navigate Down

@@ -1,6 +1,10 @@
 # Ignore Browser Config
 BraveSoftware
 
+
+.undodir
+
+
 # Ignore
 Code - OSS
 
