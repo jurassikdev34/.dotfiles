@@ -17,4 +17,3 @@ export EDITOR=nvim
 source $ZSH/oh-my-zsh.sh
 
 pfetch
-
